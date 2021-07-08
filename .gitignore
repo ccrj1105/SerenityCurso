@@ -24,6 +24,8 @@ hs_err_pid*
 #folders
 .gradle
 .idea
+build
+target
 .settings
 .vscode
 gradle
